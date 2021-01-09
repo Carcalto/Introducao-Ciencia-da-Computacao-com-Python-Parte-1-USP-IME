@@ -1,5 +1,5 @@
 # Introdução a Ciência da Computação com Python - Parte 1 - USP/IME
-All codes developed in the Introduction to Computer Science with Python Part 1 course.
+All codes developed in the Introduction to Computer Science with Python Part 1 course - Completed Course!!
 
 Bem vindo ao curso de Introdução à Ciência da Computação destinado aos alunos regulares da Universidade de São Paulo e a todos os demais interessados em aprender não só a programar em Python mas também os conceitos básicos da Ciência da Computação!
 
